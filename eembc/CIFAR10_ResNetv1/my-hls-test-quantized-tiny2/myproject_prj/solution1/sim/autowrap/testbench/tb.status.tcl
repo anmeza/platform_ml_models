@@ -1,0 +1,1 @@
+set ::AESL_AUTOSIM::gTopFileName /data/armita/Andy/platform_ml_models/eembc/CIFAR10_ResNetv1/my-hls-test-quantized-tiny2/myproject_prj/solution1/./sim/autowrap/testbench/myproject_axi.cpp_pre.cpp.tb.cpp

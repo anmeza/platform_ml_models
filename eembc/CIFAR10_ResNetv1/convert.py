@@ -18,10 +18,11 @@ import hls4ml
 from qkeras.utils import _add_supported_quantized_objects
 import tensorflow as tf
 import os
-import setGPU
+#import setGPU
 # edit depending on where Vivado is installed:
 # os.environ['PATH'] = '/<Xilinx installation directory>/Vivado/<version>/bin:' + os.environ['PATH']
-os.environ['PATH'] = '/xilinx/Vivado/2019.1/bin:' + os.environ['PATH']
+# os.environ['PATH'] = '/xilinx/Vivado/2019.1/bin:' + os.environ['PATH']
+os.environ['PATH'] = '/data/opt/Xilinx/Vivado/2020.1/bin:' + os.environ['PATH']
 
 
 def print_dict(d, indent=0):

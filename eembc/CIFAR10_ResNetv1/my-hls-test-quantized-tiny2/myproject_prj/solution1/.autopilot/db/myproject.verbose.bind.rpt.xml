@@ -1,0 +1,60 @@
+<profile>
+
+<section name = "Vivado HLS Report for 'myproject'" level="0">
+<item name = "Date">Wed Nov 10 01:06:15 2021
+</item>
+<item name = "Version">2020.1 (Build 2897737 on Wed May 27 20:21:37 MDT 2020)</item>
+<item name = "Project">myproject_prj</item>
+<item name = "Solution">solution1</item>
+<item name = "Product family">zynq</item>
+<item name = "Target device">xc7z020-clg400-1</item>
+</section>
+
+<section name = "Performance Estimates" level="0">
+<item name = "Timing">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="4">Clock, Target, Estimated, Uncertainty</keys>
+<column name="ap_clk">10.00 ns, 8.518 ns, 1.25 ns</column>
+</table>
+</item>
+</section>
+</item>
+<item name = "Latency">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="8">, min, max, min, max, min, max, Type</keys>
+<column name="">16789627, 16789627, 0.168 sec, 0.168 sec, 41032, 16781313, dataflow</column>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="0">
+<keys size="9">Instance, Module, min, max, min, max, min, max, Type</keys>
+<column name="grp_dense_array_array_ap_fixed_8_6_5_3_0_10u_config18_s_fu_6130">dense_array_array_ap_fixed_8_6_5_3_0_10u_config18_s, 41031, 41031, 0.410 ms, 0.410 ms, 41031, 41031, none</column>
+<column name="grp_conv_2d_cl_array_array_ap_fixed_32u_config11_s_fu_6188">conv_2d_cl_array_array_ap_fixed_32u_config11_s, 2048, 16781312, 20.480 us, 0.168 sec, 2048, 16781312, none</column>
+<column name="grp_conv_2d_cl_array_array_ap_fixed_32u_config14_s_fu_7484">conv_2d_cl_array_array_ap_fixed_32u_config14_s, 242, 1982948, 2.420 us, 19.829 ms, 242, 1982948, none</column>
+<column name="grp_conv_2d_cl_array_array_ap_fixed_32u_config8_s_fu_8780">conv_2d_cl_array_array_ap_fixed_32u_config8_s, 2450, 2513700, 24.500 us, 25.137 ms, 2450, 2513700, none</column>
+<column name="grp_conv_2d_cl_array_array_ap_fixed_32u_config2_s_fu_8984">conv_2d_cl_array_array_ap_fixed_32u_config2_s, 2048, 102400, 20.480 us, 1.024 ms, 2048, 102400, none</column>
+<column name="grp_conv_2d_cl_array_array_ap_fixed_4u_config5_s_fu_9040">conv_2d_cl_array_array_ap_fixed_4u_config5_s, 2450, 2513700, 24.500 us, 25.137 ms, 2450, 2513700, none</column>
+<column name="grp_relu_array_array_ap_fixed_32u_relu_config4_s_fu_10308">relu_array_array_ap_fixed_32u_relu_config4_s, 1027, 1027, 10.270 us, 10.270 us, 1027, 1027, none</column>
+<column name="grp_relu_array_array_ap_fixed_32u_relu_config10_s_fu_10376">relu_array_array_ap_fixed_32u_relu_config10_s, 1027, 1027, 10.270 us, 10.270 us, 1027, 1027, none</column>
+<column name="grp_relu_array_array_ap_fixed_32u_relu_config13_s_fu_10444">relu_array_array_ap_fixed_32u_relu_config13_s, 67, 67, 0.670 us, 0.670 us, 67, 67, none</column>
+<column name="grp_relu_array_array_ap_fixed_32u_relu_config16_s_fu_10512">relu_array_array_ap_fixed_32u_relu_config16_s, 67, 67, 0.670 us, 0.670 us, 67, 67, none</column>
+<column name="grp_zeropad2d_cl_array_array_ap_fixed_32u_config20_s_fu_10580">zeropad2d_cl_array_array_ap_fixed_32u_config20_s, 1296, 1296, 12.960 us, 12.960 us, 1296, 1296, none</column>
+<column name="grp_zeropad2d_cl_array_array_ap_fixed_32u_config23_s_fu_10648">zeropad2d_cl_array_array_ap_fixed_32u_config23_s, 144, 144, 1.440 us, 1.440 us, 144, 144, none</column>
+<column name="grp_relu_array_array_ap_fixed_4u_relu_config7_s_fu_10716">relu_array_array_ap_fixed_4u_relu_config7_s, 1027, 1027, 10.270 us, 10.270 us, 1027, 1027, none</column>
+<column name="grp_zeropad2d_cl_array_array_ap_fixed_4u_config21_s_fu_10728">zeropad2d_cl_array_array_ap_fixed_4u_config21_s, 1296, 1296, 12.960 us, 12.960 us, 1296, 1296, none</column>
+<column name="grp_zeropad2d_cl_array_array_ap_fixed_32u_config22_s_fu_10740">zeropad2d_cl_array_array_ap_fixed_32u_config22_s, 1089, 1089, 10.890 us, 10.890 us, 1089, 1089, none</column>
+</table>
+</item>
+<item name = "Loop"><table name="" hasTotal="0">
+<keys size="8">Loop Name, min, max, Latency, achieved, target, Count, Pipelined</keys>
+</table>
+</item>
+</section>
+</item>
+</section>
+</item>
+</section>
+</profile>

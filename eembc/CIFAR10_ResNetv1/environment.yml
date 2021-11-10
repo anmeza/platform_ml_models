@@ -1,4 +1,4 @@
-name: tiny-mlperf-env
+name: tiny-mlperf-fifo-env-take-2
 channels:
   - conda-forge
 dependencies:
@@ -21,4 +21,3 @@ dependencies:
     - keras-tuner
     - setgpu
     - mplhep
-    

@@ -1,0 +1,110 @@
+{ data: -13.25, last: 0 }
+ { data: -13.75, last: 0 }
+ { data: -10.5, last: 0 }
+ { data: -6.75, last: 0 }
+ { data: -13, last: 0 }
+ { data: -8, last: 0 }
+ { data: -8.75, last: 0 }
+ { data: -14, last: 0 }
+ { data: -10.25, last: 0 }
+ { data: -12.5, last: 1 }
+ 
+{ data: -5.5, last: 0 }
+ { data: -2.5, last: 0 }
+ { data: -15.5, last: 0 }
+ { data: -13.75, last: 0 }
+ { data: -16.5, last: 0 }
+ { data: -15, last: 0 }
+ { data: -15.5, last: 0 }
+ { data: -13, last: 0 }
+ { data: 4, last: 0 }
+ { data: -4.5, last: 1 }
+ 
+{ data: -9.75, last: 0 }
+ { data: -5.25, last: 0 }
+ { data: -11.75, last: 0 }
+ { data: -13.25, last: 0 }
+ { data: -13, last: 0 }
+ { data: -15.5, last: 0 }
+ { data: -13.25, last: 0 }
+ { data: -12.5, last: 0 }
+ { data: -1.75, last: 0 }
+ { data: -6, last: 1 }
+ 
+{ data: -2.25, last: 0 }
+ { data: -5, last: 0 }
+ { data: -9.75, last: 0 }
+ { data: -9.5, last: 0 }
+ { data: -11.75, last: 0 }
+ { data: -13.5, last: 0 }
+ { data: -13.25, last: 0 }
+ { data: -11.75, last: 0 }
+ { data: -4.25, last: 0 }
+ { data: -6.25, last: 1 }
+ 
+{ data: -16.5, last: 0 }
+ { data: -10.75, last: 0 }
+ { data: -6, last: 0 }
+ { data: -10.75, last: 0 }
+ { data: -8.75, last: 0 }
+ { data: -17.25, last: 0 }
+ { data: -3.5, last: 0 }
+ { data: -22, last: 0 }
+ { data: -11, last: 0 }
+ { data: -16.25, last: 1 }
+ 
+{ data: -17.25, last: 0 }
+ { data: -16.25, last: 0 }
+ { data: -9, last: 0 }
+ { data: -8.75, last: 0 }
+ { data: -8, last: 0 }
+ { data: -9.25, last: 0 }
+ { data: -4, last: 0 }
+ { data: -12.25, last: 0 }
+ { data: -13.75, last: 0 }
+ { data: -14.25, last: 1 }
+ 
+{ data: -9.25, last: 0 }
+ { data: -1.5, last: 0 }
+ { data: -14.25, last: 0 }
+ { data: -10.25, last: 0 }
+ { data: -19, last: 0 }
+ { data: -13.25, last: 0 }
+ { data: -12.75, last: 0 }
+ { data: -13, last: 0 }
+ { data: -14.5, last: 0 }
+ { data: -5, last: 1 }
+ 
+{ data: -4.5, last: 0 }
+ { data: -10.25, last: 0 }
+ { data: -4.25, last: 0 }
+ { data: -7, last: 0 }
+ { data: -5.25, last: 0 }
+ { data: -7.75, last: 0 }
+ { data: -3.5, last: 0 }
+ { data: -6.25, last: 0 }
+ { data: -9.25, last: 0 }
+ { data: -9.75, last: 1 }
+ 
+{ data: -11, last: 0 }
+ { data: -12.5, last: 0 }
+ { data: -7.25, last: 0 }
+ { data: -3, last: 0 }
+ { data: -7, last: 0 }
+ { data: -6.25, last: 0 }
+ { data: -6, last: 0 }
+ { data: -8.75, last: 0 }
+ { data: -9.25, last: 0 }
+ { data: -12.75, last: 1 }
+ 
+{ data: -11.75, last: 0 }
+ { data: -1.75, last: 0 }
+ { data: -18.5, last: 0 }
+ { data: -18.25, last: 0 }
+ { data: -15.75, last: 0 }
+ { data: -20.25, last: 0 }
+ { data: -18, last: 0 }
+ { data: -17.75, last: 0 }
+ { data: -10.75, last: 0 }
+ { data: -4.75, last: 1 }
+ 
